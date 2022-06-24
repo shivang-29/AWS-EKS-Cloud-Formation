@@ -1,0 +1,9 @@
+"Resources": {
+      "Type": "AWS::EC2::VPC",
+      "Properties": {},
+      "Metadata": {
+          "AWS::CloudFormation::Designer": {
+              "id": "b740d103-fe51-45ba-b8da-211f8fc1315b"
+          }
+      }
+}
